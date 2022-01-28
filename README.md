@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Terence
-- 👀 I’m interested in pivoting careers - former structural engineer, aspiring software engineer
+- 👀 I’m interested in pivoting careers - former structural engineer, aspiring software developer
 - 🌱 I’m currently learning web development through The Odin Project
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
