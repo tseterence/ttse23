@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Terence
 - 👀 I’m interested in pivoting careers - former structural engineer, aspiring software developer
-- 🌱 I’m currently learning web development through The Odin Project
+- 🌱 I’m currently learning web development through The Odin Project and 100Devs
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
